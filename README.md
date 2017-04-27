@@ -2,7 +2,7 @@
 
 [[English README](README.md)] [[中文说明](README_CN.md)]
 
-Android UserGuide is a framework to build user guide steps easily。
+Android User Guide is a framework to build user guide steps easily for android application.
 
 Under [MIT LICENSE](LICENSE.md)
 

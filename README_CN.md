@@ -2,7 +2,7 @@
 
 [[English README](README.md)] [[中文说明](README_CN.md)]
 
-Android UserGuide 是一个用于为安卓应用构建用户向导(帮助教程)的框架。
+Android User Guide 是一个用于为安卓应用构建用户向导(帮助教程)的框架。
 
 Under [MIT LICENSE](LICENSE.md)
 
