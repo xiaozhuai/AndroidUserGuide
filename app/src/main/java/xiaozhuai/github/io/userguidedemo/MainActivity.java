@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
                 GuideBinder.build()
                         .bind(findViewById(R.id.btn_1))
                         .img(R.drawable.touch_me_1)
-                        .size(300*density, 300*density)
+                        .size(400*density, 400*density)
                         .shadowType(GuideBinder.SHADOW_TYPE_FULL)
         );
         mUserGuide.add(
