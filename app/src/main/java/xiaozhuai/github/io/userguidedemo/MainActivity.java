@@ -37,16 +37,22 @@ public class MainActivity extends AppCompatActivity {
         mUserGuide.add(
                 GuideBinder.build()
                         .bind(findViewById(R.id.btn_2))
+                        .img(R.drawable.touch_me_2)
+                        .size(400*density, 400*density)
                         .shadowType(GuideBinder.SHADOW_TYPE_CIRCLE)
         );
         mUserGuide.add(
                 GuideBinder.build()
                         .bind(findViewById(R.id.btn_3))
+                        .img(R.drawable.touch_me_1)
+                        .size(400*density, 400*density)
                         .shadowType(GuideBinder.SHADOW_TYPE_RECT)
         );
         mUserGuide.add(
                 GuideBinder.build()
                         .bind(findViewById(R.id.btn_4))
+                        .img(R.drawable.touch_me_2)
+                        .size(400*density, 400*density)
                         .shadowType(GuideBinder.SHADOW_TYPE_FANTASY)
         );
 
