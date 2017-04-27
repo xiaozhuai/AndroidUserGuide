@@ -82,25 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
 # Imgs
 
-## view
-
-![view](imgs/view.png)
-
-## Step 0 (full mask)
-
-![view](imgs/step0.png)
-
-## Step 1 (circle mask)
-
-![view](imgs/step1.png)
-
-## Step 2 (rect mask)
-
-![view](imgs/step2.png)
-
-## Step 3 (fantasy mask)
-
-![view](imgs/step3.png)
+![preview](imgs/preview.png)
 
 # Finally
 
